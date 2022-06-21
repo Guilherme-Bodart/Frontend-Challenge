@@ -44,3 +44,5 @@ Diferenciais:
 ● Código bem escrito e limpo;
 
 ● CSS in JS;
+
+Obs: A quarta e a quinta página, Documentos e Confirmação, não fiz inteiras, ao meu ver seria só CSS, não tinha uma lógica para por ali, a não ser que em documentos fosse pra baixar os arquivos, mas acabei ficando sem tempo fiz só um pouco do CSS que tinha ali;
