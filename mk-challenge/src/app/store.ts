@@ -1,9 +1,13 @@
 import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import stepReducer from '../components/step/stepSlice';
+import registerReducer from '../pages/registerPage/registerAccount/registerAccountSlice';
+import registerCompanyReducer from '../pages/registerPage/registerCompany/registerCompanySlice';
 
 export const store = configureStore({
   reducer: {
-    counter: counterReducer,
+    step: stepReducer,
+    register: registerReducer,
+    registerCompany: registerCompanyReducer,
   },
 });
 
