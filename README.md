@@ -21,7 +21,7 @@ O que vamos avaliar:
 ● Composição/reutilização de componentes;
 
 ● Como rodar sua aplicação ;)
-   Baixar pelo git ou clonar, rodar npm i, ou yarn add, entrar na pasta mk-challenge e rodar npm start, não precisa de nada de fora, não utilizei nenhum backend nem nada
+   Baixar pelo git ou clonar, entrar na pasta mk-challenge, rodar npm i ou yarn add e rodar npm start, não precisa de nada de fora, não utilizei nenhum backend nem nada
    
 ● Organização do código;
 
